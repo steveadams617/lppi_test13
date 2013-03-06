@@ -1,0 +1,493 @@
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After saving to session after filling default values:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After saving to session after filling default values:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After saving to session after filling default values:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+)
+
+
+Segments to be redirected from search button:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => jennifer
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => jennifer
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => jennifer
+)
+
+
+Segments to be redirected from search button:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => kone
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => kone
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => kone
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => kone
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => kone
+)
+
+
+Segments to be redirected from search button:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => Jennifer
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => Jennifer
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => Jennifer
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => Jennifer
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => body
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After saving to session after filling default values:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After loading from session after a blank sort_by:
+Array
+(
+    [sort_by] => plan
+    [sort_order] => asc
+    [search_text] => 
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => plan
+    [sort_order] => asc
+)
+
+
+After saving to session from link with necessary defaults added:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+)
+
+
+After saving to session after filling default values:
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+)
+
+
+Segments to be redirected from search button:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => eliz
+    [page] => 
+)
+
+----------------------------------------------------------------
+When first to page:
+Array
+(
+    [sort_by] => patients.first_name
+    [sort_order] => asc
+    [search_text] => eliz
+)
+
+
+After saving to session from link with necessary defaults added:
+
